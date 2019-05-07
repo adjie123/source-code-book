@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CountCounter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FootballScheduleMatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FootballScheduleMatch/.gradle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FootballScheduleMatch/footballscedhulematch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JustJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LayoutSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListJualMobil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MADE Project/CatalogueMovie2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaterialTab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyCookies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SampleFragmentUsage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sample_Intent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleGridView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleListView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SwipeRefreshandLoadMore" vcs="Git" />
+  </component>
+</project>
